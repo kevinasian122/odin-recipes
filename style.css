@@ -1,0 +1,36 @@
+.title {
+    color:tomato;
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.links{
+    color:crimson;
+    font-size: 30px;
+    font-weight: 500;
+    padding-left: 80px
+}
+
+.head{
+    color:tomato
+}
+
+.text, .head, .title, .img{
+    text-align:center
+}
+
+.img{
+    width: 400px;
+    height: 550px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    display:table;
+    margin-left: auto;
+    margin-right: auto;
+}
